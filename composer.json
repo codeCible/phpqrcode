@@ -1,6 +1,6 @@
 {
 
-    "name": "diszz/phpqrcode",
+    "name": "codecible/phpqrcode",
 
 
     "type": "php",
@@ -9,9 +9,9 @@
     "keywords": ["phpqrcode", "libs", "helper"],
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/diszz/phpqrcode/issues",
-        "wiki": "https://github.com/diszz/phpqrcode/wiki",
-        "source": "https://github.com/diszz/phpqrcode"
+        "issues": "https://github.com/codecible/phpqrcode/issues",
+        "wiki": "https://github.com/codecible/phpqrcode/wiki",
+        "source": "https://github.com/codecible/phpqrcode"
     },
     "authors": [
         {
@@ -26,7 +26,7 @@
     
     "autoload": {
         "psr-4": {
-            "diszz\\phpqrcode\\": ""
+            "codecible\\phpqrcode\\": ""
         }
     }
 }
